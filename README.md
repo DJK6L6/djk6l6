@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">💻 Java Backend Developer  <br>🔐 Focused on security, performance, and scalability 🌍 Website: <a href="https://djk6l6.github.io/Portfolio/" target="_blank">Portfolio</a></p>
+<p align="left">💻 Java Backend Developer  <br>🔐 Focused on security, performance, and scalability<br> 
+  🌍 Website: <a href="https://djk6l6.github.io/Portfolio/" target="_blank">Portfolio</a></p>
 
 ###
 
