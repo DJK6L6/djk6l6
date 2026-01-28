@@ -15,11 +15,15 @@
 
 ###
 
-<h2 align="left">🚀 Aktualnie</h2>
+<h2 align="left">🚀 Currently</h2>
 
 ###
 
-<p align="left">- rozwijam projekty backendowe w Javie  <br>- pogłębiam wiedzę z zakresu bezpieczeństwa aplikacji  <br>- pracuję nad jakością kodu i architekturą systemów</p>
+<p align="left">
+- developing backend projects in Java  <br>
+- deepening my knowledge of application security  <br>
+- working on code quality and system architecture
+</p>
 
 ###
 
